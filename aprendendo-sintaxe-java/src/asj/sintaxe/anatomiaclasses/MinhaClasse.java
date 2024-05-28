@@ -1,4 +1,4 @@
-package edu.rewer.anatomiaclasses;
+package asj.sintaxe.anatomiaclasses;
 
 public class MinhaClasse {
   public static void main (String[] args) {
