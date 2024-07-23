@@ -1,0 +1,7 @@
+Para criar um projeto Maven por linha de comando
+
+mvn archetype:generate -DgroupId=one.digitalinnovarion -DartifactId=quick-start-maven -Darchetype=maven-archetype-quickstart -DinteractiveMode=false
+
+* groupId = Nome do grupo de trabalho
+* artifactId = Nome do projeto
+* archetype = Nome do template Maven a ser utilizado para o projeto
